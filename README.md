@@ -3,15 +3,10 @@
 A content-based movie recommender built with **TF-IDF** and **cosine similarity**. Pick a movie and the app returns the 5 most similar ones, along with posters, IMDb ratings, year and genre fetched live from the OMDb API.
 
 🔗 **Live Demo: https://movie-recommender-k80e.onrender.com
-📦 **GitHub Repo: 
+📦 **GitHub Repo: https://github.com/rajatcse9-a11y/Movie_recommender.git
 
 > The demo runs on Render's free tier, so the first load after a period of inactivity can take 30–60 seconds while the app wakes up.
 
-## Screenshots
-
-<!-- App ke 2-3 screenshots yahan add karo, e.g. -->
-<!-- ![Home](screenshots/home.png) -->
-<!-- ![Recommendations](screenshots/recommendations.png) -->
 
 ## Features
 
@@ -55,8 +50,8 @@ A content-based movie recommender built with **TF-IDF** and **cosine similarity*
 ## Run Locally
 
 ```bash
-# 1. Clone the repo
-git clone 
+# 1. Clone the repo 
+git clone https://github.com/rajatcse9-a11y/Movie_recommender.git
 cd Movie_recommender
 
 # 2. Install dependencies
